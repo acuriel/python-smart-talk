@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\aryan.curiel\\.virtualenvs\\python-smart-talk-J5-ryC1b\\Scripts\\python.exe",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
